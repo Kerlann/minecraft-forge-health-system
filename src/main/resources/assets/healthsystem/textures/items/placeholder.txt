@@ -1,0 +1,7 @@
+Créez ici les textures suivantes en format 16x16 pixels :
+
+1. bandage.png - Texture blanche avec des bandes
+2. splint.png - Texture de forme allongée, style bâtons avec des liens
+3. antidote.png - Texture de fiole verte
+4. first_aid_kit.png - Texture rouge avec croix blanche
+5. adrenaline.png - Texture de seringue
