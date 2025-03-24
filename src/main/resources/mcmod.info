@@ -1,0 +1,16 @@
+[
+{
+  "modid": "healthsystem",
+  "name": "Health System",
+  "description": "Un système de santé avancé pour Minecraft avec des mécaniques de régénération, blessures et guérison personnalisées.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Kerlann/minecraft-forge-health-system",
+  "updateUrl": "",
+  "authorList": ["Kerlann"],
+  "credits": "Créé par Kerlann",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
