@@ -1,0 +1,20 @@
+# Items
+item.healthsystem.bandage.name=Bandage
+item.healthsystem.splint.name=Splint
+item.healthsystem.antidote.name=Antidote
+item.healthsystem.first_aid_kit.name=First Aid Kit
+item.healthsystem.adrenaline.name=Adrenaline Shot
+
+# Item descriptions
+item.healthsystem.bandage.desc=Stops bleeding
+item.healthsystem.splint.desc=Treats bone fractures
+item.healthsystem.antidote.desc=Neutralizes poisons
+item.healthsystem.first_aid_kit.desc=Comprehensive medical care
+item.healthsystem.adrenaline.desc=Emergency recovery
+
+# Messages
+healthsystem.message.bleeding=You are bleeding
+healthsystem.message.bone_broken=You have a fracture
+healthsystem.message.poisoned=You are poisoned
+healthsystem.message.critical=CRITICAL CONDITION! Get medical help immediately!
+healthsystem.message.healed=Your condition has stabilized
