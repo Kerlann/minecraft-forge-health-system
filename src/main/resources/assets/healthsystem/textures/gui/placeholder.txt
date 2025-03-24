@@ -1,0 +1,21 @@
+Créez le fichier health_icons.png en format 64x64 pixels, divisé en une grille de 4x4 cases de 16x16 pixels :
+
+Rangée 1 :
+- Case 1: Icône de saignement léger (goutte de sang rouge clair)
+- Case 2: Icône de fracture légère (os fissuré)
+- Case 3: Icône d'empoisonnement léger (fiole verte)
+- Case 4: Icône d'état critique (cœur rouge avec ligne d'ECG)
+
+Rangée 2 :
+- Case 1: Icône de saignement modéré (goutte de sang rouge)
+- Case 2: Icône de fracture modérée (os plus fissuré)
+- Case 3: Icône d'empoisonnement modéré (fiole verte plus intense)
+- Case 4: Icône d'état critique clignotante (version alternative du cœur avec ECG)
+
+Rangée 3 :
+- Case 1: Icône de saignement grave (goutte de sang rouge foncé)
+- Case 2: Icône de fracture grave (os brisé)
+- Case 3: Icône d'empoisonnement grave (fiole verte foncée)
+- Case 4: Réservé pour usage futur
+
+Rangée 4 : Réservée pour usage futur
