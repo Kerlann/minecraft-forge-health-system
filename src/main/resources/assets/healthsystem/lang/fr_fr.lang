@@ -1,0 +1,20 @@
+# Items
+item.healthsystem.bandage.name=Bandage
+item.healthsystem.splint.name=Attelle
+item.healthsystem.antidote.name=Antidote
+item.healthsystem.first_aid_kit.name=Kit de Premiers Soins
+item.healthsystem.adrenaline.name=Injection d'Adrénaline
+
+# Item descriptions
+item.healthsystem.bandage.desc=Arrête les saignements
+item.healthsystem.splint.desc=Traite les fractures osseuses
+item.healthsystem.antidote.desc=Neutralise les poisons
+item.healthsystem.first_aid_kit.desc=Soins médicaux complets
+item.healthsystem.adrenaline.desc=Récupération d'urgence
+
+# Messages
+healthsystem.message.bleeding=Vous saignez
+healthsystem.message.bone_broken=Vous avez une fracture
+healthsystem.message.poisoned=Vous êtes empoisonné
+healthsystem.message.critical=ÉTAT CRITIQUE ! Cherchez des soins médicaux immédiatement !
+healthsystem.message.healed=Votre état s'est stabilisé
